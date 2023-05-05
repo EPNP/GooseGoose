@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>996089726548-21fp7bo1qhvjv3anekq6fld3qah5cm7m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.996089726548-21fp7bo1qhvjv3anekq6fld3qah5cm7m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>996089726548-9843gcvhgv10b24i7h4p2rvbf8nv6s8m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByCl5yuw_8ZL0MCTU6H2Oi-7XqWKuzBls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>996089726548</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.tvvv2</string>
+	<key>PROJECT_ID</key>
+	<string>twittyv2-865d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twittyv2-865d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:996089726548:ios:eee5257889843a2af5cfc1</string>
+</dict>
+</plist>
